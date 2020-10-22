@@ -31,7 +31,7 @@ function setup() {
 	//Create the Bodies Here.
 	pendulem1=new Pendulem(340,450,"white");
 	pendulem2=new Pendulem(400,450,"red");
-	pendulem3=new Pendulem(460,450,"black");
+	pendulem3=new Pendulem(460,450,"purple");
 	pendulem4=new Pendulem(520,450,"blue");
 	pendulem5=new Pendulem(580,450,"green");
     
@@ -58,7 +58,7 @@ function draw() {
   pendulem3.display();
   pendulem4.display();
   pendulem5.display();
-  roof.display();
+  //roof.display();
   sling1.display();
   sling2.display();
   sling3.display();
