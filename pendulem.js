@@ -6,7 +6,7 @@ class Pendulem{
         friction:0,
         frictionAir:0.0,
         slope:1,
-        inertia:infinity
+        inertia:Infinity
          //density:0.8 
         } 
          this.x= x;
